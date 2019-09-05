@@ -1,0 +1,9 @@
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\bin\Debug\MyFirstApp_Farra-250S01.exe.config
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\bin\Debug\MyFirstApp_Farra-250S01.exe
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\bin\Debug\MyFirstApp_Farra-250S01.pdb
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra-250S01.csprojAssemblyReference.cache
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra_250S01.Properties.Resources.resources
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra-250S01.csproj.GenerateResource.cache
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra-250S01.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra-250S01.exe
+X:\Visual Studio 2017\Projects\MyFirstApp_Farra-250S01\MyFirstApp_Farra-250S01\obj\Debug\MyFirstApp_Farra-250S01.pdb
